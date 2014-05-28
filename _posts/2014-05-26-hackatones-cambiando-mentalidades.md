@@ -14,7 +14,7 @@ author:
   image: authors/eme.png
 ---
 
-Al día de hoy, Codeando México ha participado de manera directa o indirecta en más de 20 _hackathons_ y los integrantes del equipo han organizado conjuntamente alrededor de otros 10. Un _hackathon_ o hackatón (su pronunciación en español), [es básicamente](http://mlh.io/blog/hackathons-are-taking-the-world-by-storm-02-21-2014/) “un maratón donde se junta gente a crear cosas”, usualmente utilizando tecnología y software.
+Al día de hoy, [Codeando México](http://codeandomexico.org) ha participado de manera directa o indirecta en más de 20 _hackathons_ y los integrantes del equipo han organizado conjuntamente alrededor de otros 10. Un _hackathon_ o hackatón (su pronunciación en español), [es básicamente](http://mlh.io/blog/hackathons-are-taking-the-world-by-storm-02-21-2014/) “un maratón donde se junta gente a crear cosas”, usualmente utilizando tecnología y software.
 
 ¿Por qué tantos hackatones, entonces? En una oración, porque en cada uno de estos eventos hemos sido testigos de una cantidad astronómica de [valor creado en tan sólo unas horas](http://2012.desarrollandoamerica.org/desarrollando-america-latina-2012-ya-tiene-campeones-regionales/) o unos días. [La atmósfera que se gesta](http://youtu.be/qpKLMrV60fs) en estos eventos cambia vidas, literalmente.
 
@@ -56,4 +56,4 @@ Al final, lo más importante de los hackatones no es que la gente aprenda a prog
 
 El hecho que pueda darse este aprendizaje y un cambio en la mentalidad de los participantes ya hace que todo el esfuerzo de patrocinadores y participantes valga la pena. Por esto y por todas las razones anteriores, nos encantan los hackatones y Codeando México está comprometido a apoyar y seguir impulsando la _cultura hackatonista_ en México.
 
-***Gracias a [JP Escobar](http://twitter.com/juanpabloe), [Paulina Bustos](http://twitter.com/paulinabustosa), y a [Eduardo López](http://twitter.com/edolopez) por revisar este post y aportar muy buenas sugerencias.***
+***Gracias a [Paulina Bustos](http://twitter.com/paulinabustosa), [JP Escobar](http://twitter.com/juanpabloe), [Eduardo López](http://twitter.com/edolopez), y al equipo de [Codeando México](http://twitter.com/codeandomexico) por revisar este post y aportar muy buenas sugerencias.***

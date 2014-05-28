@@ -55,3 +55,5 @@ En el tema cívico, incluso gobiernos como el de la [ciudad de Nueva York han or
 Al final, lo más importante de los hackatones no es que la gente aprenda a programar o a escribir código, sino que aprendan lo valioso que es adquirir la capacidad para construir nuevas cosas. “En gran medida es como ser un artista”, [dice sin pena la revista _Wired_](http://www.wired.com/2012/06/hackathons-arent-just-for-hacking/).
 
 El hecho que pueda darse este aprendizaje y un cambio en la mentalidad de los participantes ya hace que todo el esfuerzo de patrocinadores y participantes valga la pena. Por esto y por todas las razones anteriores, nos encantan los hackatones y Codeando México está comprometido a apoyar y seguir impulsando la _cultura hackatonista_ en México.
+
+***Gracias a [JP Escobar](http://twitter.com/juanpabloe), [Paulina Bustos](http://twitter.com/paulinabustosa), y a [Eduardo López](http://twitter.com/edolopez) por revisar este post y aportar muy buenas sugerencias***
